@@ -1,0 +1,1 @@
+web: gunicorn BellyBiodiversity.app:app

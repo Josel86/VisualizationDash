@@ -1,0 +1,1 @@
+FLASK_APP=BellyBiodiversity/app.py flask run
